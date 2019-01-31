@@ -6,16 +6,15 @@ class Home extends Component {
       <div class="panel">
         <div class="panel__wrapper">
           <div class="panel__content">
-          <h2 class="panel__headline">HELLO</h2>
+          <h1 class="panel__headline">Hi, My Name is Ludim.</h1>
+          <h2 class="panel__headline">THIS WEBSITE IS CURRENTLY UNDER CONSTRUCTION</h2>
           <div class="panel__block"></div>
-          <p>Cras facilisis urna ornare ex volutpat, et
-          convallis erat elementum. Ut aliquam, ipsum vitae
-          gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-          metus nec massa. Maecenas hendrerit laoreet augue
-          nec molestie. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus.</p>
-          
-          <p>Duis a turpis sed lacus dapibus elementum sed eu lectus.</p>
+          <p><strong>BUT</strong>,You can find me on:</p>
+          <ul>
+            <li><a href="https://www.linkedin.com/in/ludimcastillo">Linkedin</a></li>
+            <li><a href="https://github.com/ludimcastillo">Github</a></li>
+            <li><a href="https://www.linkedin.com/in/ludimcastillo">Instagram</a></li>
+          </ul>
           </div>
         </div>
       </div>

@@ -1,10 +1,10 @@
 body {
-  background-color: #FFCC00;
+  background-color: white;
   padding: 20px;
 }
 
 h1, h2, p, ul, li {
-  font-family: sans-serif;
+  font-family: Helvetica;
 }
 
 ul.header {
