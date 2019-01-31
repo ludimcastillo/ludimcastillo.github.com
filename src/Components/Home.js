@@ -6,7 +6,7 @@ class Home extends Component {
       <div class="panel">
         <div class="panel__wrapper">
           <div class="panel__content">
-          <h1 class="panel__headline">Hi, My Name is Ludim.</h1>
+          <h1 class="panel__headline">Hi, my name is Ludim.</h1>
           <h2 class="panel__headline">THIS WEBSITE IS CURRENTLY UNDER CONSTRUCTION</h2>
           <div class="panel__block"></div>
           <p><strong>BUT</strong>,You can find me on:</p>
